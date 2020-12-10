@@ -9,3 +9,10 @@ For a `QueueTrigger` to work, you provide a path which dictates where the queue 
 ## Learn more
 
 <TODO> Documentation
+
+
+
+
+azure functionapp fetch-app-settings app-name-dev
+
+
