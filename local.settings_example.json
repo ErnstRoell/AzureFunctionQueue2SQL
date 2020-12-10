@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "<your-connection-string-to-storage-account>", 
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "<application-insight-key>",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "<application-insight-connectionstring>",
+    "DB_CONNECTION_STRING": "<database-connection-string>"
+  },
+  "ConnectionStrings": {}
+}
